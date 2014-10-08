@@ -1,0 +1,33 @@
+{
+	"license": "AGPL-3.0",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-object/issues"
+	},
+	"dependencies": {},
+	"author": "aureooms",
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build"
+	},
+	"keywords": [
+		"bricks",
+		"copy",
+		"deepcopy",
+		"javascript",
+		"js",
+		"object"
+	],
+	"version": "0.0.0",
+	"description": "object code bricks for JavaScript",
+	"homepage": "http://aureooms.github.io/js-object/",
+	"main": "js/dist/object.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-object.git"
+	},
+	"name": "aureooms-js-object",
+	"devDependencies": {
+		"aureooms-node-package": "^1.1.3"
+	}
+}

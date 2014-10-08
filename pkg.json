@@ -1,0 +1,17 @@
+{
+	"debug": false,
+	"ns": "object",
+	"src": "js/src/",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"object.js"
+		]
+	},
+	"out": "js/dist/"
+}
