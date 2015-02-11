@@ -1,0 +1,11 @@
+{
+	"description": "object code bricks for JavaScript",
+	"version": "0.1.0",
+	"repo": "aureooms/js-object",
+	"scripts": [
+		"js/dist/object.js"
+	],
+	"name": "aureooms-js-object",
+	"license": "AGPL-3.0",
+	"main": "js/dist/object.js"
+}
