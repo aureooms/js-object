@@ -1,7 +1,7 @@
 {
 	"license": "AGPL-3.0",
 	"description": "object code bricks for JavaScript",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"name": "aureooms-js-object",
 	"homepage": "http://aureooms.github.io/js-object/",
 	"main": "js/dist/object.js",
