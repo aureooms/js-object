@@ -1,6 +1,6 @@
 {
 	"debug": false,
-	"ns": "object",
+	"name": "object",
 	"src": "js/src/",
 	"code": {
 		"test": [
