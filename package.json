@@ -28,6 +28,6 @@
 	},
 	"name": "aureooms-js-object",
 	"devDependencies": {
-		"aureooms-node-package": "^6.0.1"
+		"aureooms-node-package": "^7.0.0"
 	}
 }
