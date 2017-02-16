@@ -26,7 +26,7 @@
 		"type": "git",
 		"url": "https://github.com/aureooms/js-object.git"
 	},
-	"name": "aureooms-js-object",
+	"name": "@aureooms/js-object",
 	"devDependencies": {
 		"aureooms-node-package": "^6.0.1"
 	}
