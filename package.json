@@ -1,7 +1,7 @@
 {
 	"license": "AGPL-3.0",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-object/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-object/issues"
 	},
 	"dependencies": {},
 	"author": "aureooms",
@@ -24,7 +24,7 @@
 	"main": "js/dist/object.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-object.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-object.git"
 	},
 	"name": "@aureooms/js-object",
 	"devDependencies": {
