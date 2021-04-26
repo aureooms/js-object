@@ -20,7 +20,7 @@
 	],
 	"version": "0.1.2",
 	"description": "object code bricks for JavaScript",
-	"homepage": "http://aureooms.github.io/js-object/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-object/",
 	"main": "js/dist/object.js",
 	"repository": {
 		"type": "git",

@@ -1,4 +1,4 @@
-[js-object](http://aureooms.github.io/js-object)
+[js-object](http://make-github-pseudonymous-again.github.io/js-object)
 ==
 
 object code bricks for JavaScript
